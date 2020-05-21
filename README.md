@@ -1,7 +1,7 @@
 # Title - Image Processing C++ Coding 
 
 
-![](images/q_explainations.jpg)
+![](q_explainations.jpg)
 
 Question : Let O1,O2,O3,O4,O5 be the center of the coins in the above image.
  	   Let C be the intersection of the line joining l1[O1-O4] & l2[O3-O5],
@@ -24,11 +24,11 @@ On Linux
 	
 	2.CMAKE - 3.5 or above
 
-	3.GCC/G++ compiler - 6.0 or above
+	3. GCC/G++ compiler - 6.0 or above
 
 ## Directory Structure
 
-![](images/directory_structure.png)
+![](directory_structure.png)
 
 
 ## Compiling Steps
@@ -103,9 +103,9 @@ Step - 3 : Compile and execute the coin_detection.cpp source code  in visual stu
 
 Following is the output image for reference.
 
-![](images/cimg.jpg)
+![](cimg.jpg)
 
-![](images/output.png)
+![](output.png)
 
 Distance between intersection point (C) and Coin O1 centre Point (p1) = 1235.54
 
